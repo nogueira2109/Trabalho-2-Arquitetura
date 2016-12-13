@@ -1,0 +1,5 @@
+Epochs: 30
+Base Learning Rate: 0.05
+Policy: Step Down
+Step Size: 75.0
+
